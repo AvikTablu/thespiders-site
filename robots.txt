@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.thespiders.in/sitemap.xml
